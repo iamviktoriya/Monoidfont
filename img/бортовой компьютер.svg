@@ -1,0 +1,19 @@
+<svg width="1266" height="420" viewBox="0 0 1266 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="157" width="951" height="420" fill="#41464A"/>
+<rect x="5" y="37" width="97" height="44" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="-5" y="5" width="97" height="44" transform="matrix(-1 0 0 1 1255.5 32)" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="5" y="133" width="97" height="44" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="-5" y="5" width="97" height="44" transform="matrix(-1 0 0 1 1255.5 128)" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="5" y="229" width="97" height="44" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="-5" y="5" width="97" height="44" transform="matrix(-1 0 0 1 1255.5 224)" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="5" y="325" width="97" height="44" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<rect x="-5" y="5" width="97" height="44" transform="matrix(-1 0 0 1 1255.5 320)" fill="#FCC945" stroke="#41464A" stroke-width="10"/>
+<path d="M116 48L152.5 69.5" stroke="white" stroke-width="5"/>
+<path d="M1149.5 59L1113 80.5" stroke="white" stroke-width="5"/>
+<path d="M116 144L152.5 165.5" stroke="white" stroke-width="5"/>
+<path d="M1149.5 155L1113 176.5" stroke="white" stroke-width="5"/>
+<path d="M116 240L152.5 261.5" stroke="white" stroke-width="5"/>
+<path d="M1149.5 251L1113 272.5" stroke="white" stroke-width="5"/>
+<path d="M116 336.5L152.5 358" stroke="white" stroke-width="5"/>
+<path d="M1149.5 347L1113 368.5" stroke="white" stroke-width="5"/>
+</svg>

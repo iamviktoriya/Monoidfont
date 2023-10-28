@@ -1,0 +1,580 @@
+/*первый блок*/
+.doroga{
+    height: 3488px;
+    width: 1440px;
+}
+
+.imgdoroga img{
+    display: block;
+    width: 1500px;
+    top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+}
+
+.imgplane img{
+    display: block;
+    top: -8px;
+    margin-left: 424px;
+    margin-right: 391px;
+    position: relative;
+}
+
+.imgplane2 img{
+    display: block;
+    top: 1050px;
+    margin-left: 406px;
+    margin-right: 389px;
+    position: relative;
+}
+
+.imgplane3 img{
+    display: block;
+    top: 1414px;
+    margin-left: 1380px;
+    margin-right: 0px;
+    position: relative;
+}
+
+.font p{
+    font-family: "Monoid";
+    font-size: 200px; 
+    color: white;
+    position: absolute;
+    left: 360px;
+    top:225px;
+}
+
+.ramka1{
+    margin-top: 454px;
+    margin-left: 353px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    width: 450px;
+    height: 120px;
+}
+
+
+.ramka1 p{
+    font-family: "Monoid"; 
+    font-size: 64px; 
+    font-style: regular;
+    color: #FCC945;
+    position: absolute;
+    text-align: center;
+    background-color: #41464A;
+    border: 5px solid #FCC945;  
+}
+
+/*ширина каждой рамки*/
+.nameramka p{
+    width: 318px;
+}
+.razrabotkaramka p{
+    width: 441px;
+}
+
+/*о шрифте*/
+.aboutfont{
+    
+    padding: 10px 0px 0px 120px;
+    height: 622px;
+}
+
+.text1{
+    top: 0px;
+    left: 120px;
+    font-family: "Monoid"; 
+    font-size: 96px; 
+    font-style: normal;
+    color: #ffffff;
+    margin: 0;
+}
+
+.aboutfonttext{
+    top: 10px;
+    left: 120px;
+    font-family: "Monoid"; 
+    font-size: 40px; 
+    font-style: regular;
+    color: #ffffff;
+    width: auto;
+    height: 310px;
+    padding: -50px 0px 0px 0px;
+    
+}
+
+.text1 p{
+    height: 80px;
+}
+
+
+.aboutfonttext1 span{
+    font-style: bold;
+    font-weight: 700;
+    
+}
+.aboutfonttext2 span{
+    color: #FCC945;
+    font-style: bold;
+    font-weight: 700;
+
+}
+
+.nachertaniya{
+    height: 660px;
+    position: relative;
+    top: 60px;
+    left: 120px;
+    right: 120px;
+}
+
+.nachertaniyatext{
+    font-family: "Monoid"; 
+    font-size: 40px; 
+    font-style: normal;
+    color: #ffffff;
+    width: auto;
+    height: 150px;
+}
+
+.knopki{
+    width: 1250px;
+    height: 391px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    padding: 40px 120px 0px 0px;
+    
+}
+
+/*текст внутри кнопок*/
+.course{
+    left: 25px;
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    
+}
+
+.courseretina{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+}
+.courseregular{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+}
+.coursebold{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: bold;
+    font-weight: 700;
+}
+.courseitalic{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 400;
+}
+.number{
+    top: 177px;
+    left: 25px;
+    width: 1192px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+}
+.number1{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 300;
+}
+.number2{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+}
+.number3{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 64px;
+    font-style: bold;
+    font-weight: 700;
+}
+.number4{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 64px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.fontname{
+    top: 500px;
+    left: -40px;
+    width: 1300px;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+
+}
+.fontname1{
+    padding: 0px 0px 0px 40px;
+    color: #FCC945;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 300;
+}
+.fontname2{
+    padding: 0px 0px 0px 144px;
+    color: #FCC945;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+}
+.fontname3{
+    padding: 0px 0px 0px 180px;
+    color: #FCC945;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: bold;
+    font-weight: 700;
+}
+.fontname4{
+    padding: 0px 0px 0px 193px;
+    color: #FCC945;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 400;
+}
+/*слова капитана*/
+.wordscaptain{
+    height: 590px;
+    
+    position:absolute;
+}
+.wordscaptain div{
+    height: 75px;
+    top: 185px;
+    left: 343px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    position: relative;
+}
+.wordscaptain img{
+    position: absolute;
+    display: block;
+    top: 170px;
+    left: 110px;
+}
+.words1 p{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+}
+.words2 p{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+}
+.words3 p{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: bold;
+    font-weight: 700;
+}
+.words4 p{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+/*блок с языками*/
+.languages{
+    top: 233px;
+    left: 160px;
+    height: auto;
+    position: relative;
+}
+.languages1{
+    top: 500px;
+    height: 1000px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    position: absolute;
+}
+.languages2{
+    top: 1600px;
+    height: 1000px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    position: absolute;
+}
+
+.languages67{
+    top: 1200px;
+    left: 400px;
+    color: #FCC945;
+    font-family: "Monoid"; 
+    font-size: 64px;
+    font-style: bold;
+    font-weight: 700;
+    position: absolute;
+}
+.languages img{
+    position: relative;
+    top: 370px;
+    left: -90px;
+}
+.ligatures{
+    height: auto;
+}
+.ligatures img{
+    top: 600px;
+    left: 110px;
+    position: relative;
+}
+
+.ligatures1{
+    top: -50px;
+    left: 600px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.ligatures2{
+    top: -80px;
+    left: 350px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.ligatures3{
+    top: -130px;
+    left: 350px;
+    color: #FCC945;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.ligatures4{
+    top: -150px;
+    left: 440px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.ligatures5{
+    top: -190px;
+    left: 440px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+
+.ligatures7{
+    top: -200px;
+    left: 350px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.ligature{
+    height:500px;
+}
+.ligature img{
+    top: -130px;
+    left: 110px;
+    position: relative;
+}
+.ligature div{
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.text2{
+    top: -700px;
+    left: 600px;
+}
+.text3{
+    top: -720px;
+    left: 353px;
+}
+
+/*особенности*/
+.block3{
+    height: 2900px;
+    width: 1440px;
+}
+.text4{
+    left: 120px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.text5{
+    top: -20px;
+    left: 120px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.bucva1 img{
+    top: -260px;
+    left: 800px;
+    position: relative;
+}
+.bucva2{
+    top: -400px;
+    left: 120px;
+    position: relative;
+}
+.text6{
+    top: auto;
+    left: 120px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.text7{
+    top: -200px;
+    left: 700px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.text8{
+    top: -350px;
+    left: 120px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.bucvi{
+    top: -380px;
+    left: 120px;
+    position: relative;
+}
+
+/*использование*/
+
+.usage{
+    height: 2200px;
+    width: 1440px;
+}
+.text9{
+    left: 120px;
+    top: 20px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+.text10{
+    left: 120px;
+    top: 0px;
+    width: 1300px;
+    color: #FFF;
+    font-family: "Monoid"; 
+    font-size: 48px;
+    font-style: bold;
+    font-weight: 700;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+}
+.usage img{
+    top: 20px;
+    left: 120px;
+    position: relative;
+}
+.imgusage img{
+    top: 80px;
+    left: 0px;
+    position: relative;
+}
+
+.lastblock img{
+    position: relative;
+    top: 300px
+}
